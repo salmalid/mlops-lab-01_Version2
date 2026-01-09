@@ -276,6 +276,9 @@ def main() -> None:
     print(f"[OK] Statistiques d'entraînement générées : {TRAIN_STATS_PATH}")
 
 
+print("change to test")
+print("another change to test")
+
 
 
 if __name__ == "__main__":
