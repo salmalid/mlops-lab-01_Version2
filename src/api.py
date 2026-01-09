@@ -306,5 +306,4 @@ def predict(req: PredictRequest) -> dict[str, Any]:
     log_prediction(out)
     return out
 
-print("new change to test")#   B A D   C H A N G E  
- 
+print("new change to test")
